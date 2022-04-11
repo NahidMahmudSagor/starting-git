@@ -1,0 +1,19 @@
+*{
+    background-color:aquamarine;
+}
+img{
+    width: 150px;
+}
+#div1{
+    background-color: blue;
+}
+#span1{
+    background-color: brown;
+    /* display: block; */
+}
+#span2{
+    background-color: palevioletred;
+}
+#div2{
+    background-color: blueviolet;
+}

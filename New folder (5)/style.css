@@ -1,0 +1,24 @@
+.parent{
+    background-color: blue;
+    padding: 10px;
+    height: 200vh;
+}
+
+.c1{
+    background-color: greenyellow;
+    padding: 2px;
+    position: sticky;
+    top: 0;
+}
+.c2{
+    background-color: red;
+    padding: 2px;
+    
+  
+}
+.c3{
+    background-color: olive;
+    padding: 2px;
+    position: sticky;
+    top: 0;
+}

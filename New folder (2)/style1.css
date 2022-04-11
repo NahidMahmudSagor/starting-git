@@ -1,0 +1,23 @@
+*{
+   background-color:aqua;
+}
+h2{
+    text-align: center;
+    border: 2px;
+}
+#div1{
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+#div2{
+    color: blue;
+    background-color: black;
+    text-align: center;
+    border: 2px;
+}
+.rrt{
+    color: yellow;
+    background-color: blueviolet;
+
+}
