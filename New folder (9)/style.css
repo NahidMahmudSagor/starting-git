@@ -1,0 +1,60 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-image: url(gorilla.jpg);
+    background-position: center;
+    background-size: cover;
+    /* position: relative; */
+}
+.left{
+    /* border: 2px solid red; */
+    display:inline; 
+    position: absolute;
+    text-align: center;
+    cursor: pointer;
+}
+.mid{
+    /* border: 2px solid red; */
+    display:block;
+    width: 80vh;
+    margin:1px auto;
+}
+.right{
+    /* border: 2px solid red; */
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    top:10px;
+}
+.navbar{
+    display: inline-block;
+}
+.navbar li {
+    display: inline-block;
+
+}
+.navbar li a{
+    color: white;
+    text-decoration: none;
+    padding: 34px 23px;
+}
+.navbar li a:hover{
+    color: red;
+}
+.left img{
+    width: 10vh;
+    filter: invert(100%);
+}
+.btn{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    /* height: 10px; */
+}
+.btn:hover{
+    color: red;
+}
